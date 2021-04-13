@@ -1,0 +1,16 @@
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\bin\Debug\net5.0\GualterpistolaBookingServices.exe
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\bin\Debug\net5.0\GualterpistolaBookingServices.deps.json
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\bin\Debug\net5.0\GualterpistolaBookingServices.runtimeconfig.json
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\bin\Debug\net5.0\GualterpistolaBookingServices.runtimeconfig.dev.json
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\bin\Debug\net5.0\GualterpistolaBookingServices.dll
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\bin\Debug\net5.0\ref\GualterpistolaBookingServices.dll
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\bin\Debug\net5.0\GualterpistolaBookingServices.pdb
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.csprojAssemblyReference.cache
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.AssemblyInfoInputs.cache
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.AssemblyInfo.cs
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.dll
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\ref\GualterpistolaBookingServices.dll
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.pdb
+C:\Users\lluis\Documents\Workspace\POO\Labo3\GualterpistolaBookingServices\obj\Debug\net5.0\GualterpistolaBookingServices.genruntimeconfig.cache
